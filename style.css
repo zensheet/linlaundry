@@ -190,7 +190,7 @@ h2 {
     display: flex;
     align-items: center;
     position: relative;
-    background: url('banner.JPG') center/cover no-repeat;
+    background: url('hero section.webp') center/cover no-repeat;
 }
 
 .hero-overlay {
